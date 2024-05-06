@@ -1,0 +1,8 @@
+player-default: true # should the player by default get a ping sound?
+player-hearself-default: false # should the player hear their own ping sound by default?
+sound-to-play: block.note_block.bell # default sound to play
+allow-home: true # enable or disable the home
+chest-graves: true # spawns a chest on death
+players:
+
+

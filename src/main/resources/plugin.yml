@@ -1,0 +1,11 @@
+name: KNFNPing
+version: '${project.version}'
+main: com.knuxstuff.knfnping.KNFNPing
+api-version: '1.20'
+commands:
+  pingcli:
+    description: Configures the message pinging system with commands
+    usage: /pingcli <args>
+  pinggui:
+    description: Configures the message pinging system with a GUI
+    usage: /pinggui

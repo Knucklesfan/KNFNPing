@@ -1,0 +1,64 @@
+sounds:
+  - ==: com.knuxstuff.knfnping.SoundOption
+    sound: block.note_block.banjo
+    block: HAY_BLOCK # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - ==: com.knuxstuff.knfnping.SoundOption
+    name: Bass Drum
+    sound: block.note_block.basedrum
+    block: ANVIL # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - ==: com.knuxstuff.knfnping.SoundOption
+    name: Bass
+    sound: block.note_block.bass
+    block: BEDROCK # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - ==: com.knuxstuff.knfnping.SoundOption
+    name: Bell
+    sound: block.note_block.bell
+    block: BELL # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - ==: com.knuxstuff.knfnping.SoundOption
+    name: Bit
+    sound: block.note_block.bit
+    block: REDSTONE_ORE # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - ==: com.knuxstuff.knfnping.SoundOption
+    name: Chime
+    sound: block.note_block.chime
+    block: BAMBOO # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - ==: com.knuxstuff.knfnping.SoundOption
+    name: Cowbell
+    sound: block.note_block.cow_bell
+    block: ROOTED_DIRT # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - ==: com.knuxstuff.knfnping.SoundOption
+    name: Didgeridoo
+    sound: block.note_block.didgeridoo
+    block: ACACIA_SAPLING # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - ==: com.knuxstuff.knfnping.SoundOption
+    name: Flute
+    sound: block.note_block.flute
+    block: IRON_INGOT # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - ==: com.knuxstuff.knfnping.SoundOption
+    name: Guitar
+    sound: block.note_block.guitar
+    block: BOW # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - ==: com.knuxstuff.knfnping.SoundOption
+    name: Harp
+    sound: block.note_block.harp
+    block: ENCHANTED_GOLDEN_APPLE # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - ==: com.knuxstuff.knfnping.SoundOption
+    name: Hat
+    sound: block.note_block.hat
+    block: LIGHT_WEIGHTED_PRESSURE_PLATE # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - ==: com.knuxstuff.knfnping.SoundOption
+    name: Iron Xyolophone
+    sound: block.note_block.iron_xylophone
+    block: IRON_BLOCK # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - ==: com.knuxstuff.knfnping.SoundOption
+    name: Pling
+    sound: block.note_block.pling
+    block: ARROW # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - ==: com.knuxstuff.knfnping.SoundOption
+    name: Snare
+    sound: block.note_block.snare
+    block: GUNPOWDER # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - ==: com.knuxstuff.knfnping.SoundOption
+    name: Xylophone
+    sound: block.note_block.xylophone
+    block: GOLD_BLOCK # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
